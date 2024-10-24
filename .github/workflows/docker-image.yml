@@ -1,3 +1,4 @@
+#NA
 name: Build and Deploy Docker Image
 
 # Disparar acciones solo cuando se complete un pull request en la rama master
